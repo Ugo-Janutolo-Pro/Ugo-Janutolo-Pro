@@ -52,5 +52,5 @@ Le detail de chaque experience est disponible dans les depots dedies de ce profi
 
 ## Contact
 
-- LinkedIn : https://www.linkedin.com/in/ugo-janutolo
+- LinkedIn : https://www.linkedin.com/in/ugo-janutolo-039413232/
 - Email : ugo.janutolo.pro@gmail.com
